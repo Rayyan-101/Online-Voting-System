@@ -18,6 +18,6 @@ A secure, web-based voting platform built using **PHP and MySQL**, designed to m
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery
-- **Backend:** PHP (Core PHP with includes and sessions)
+- **Backend:** PHP
 - **Database:** MySQL
 - **Tools:** phpMyAdmin, XAMPP, Git
